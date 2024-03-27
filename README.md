@@ -1,6 +1,6 @@
 # My Projects
 
-### [SQL (RFM Analysis, Customer Retention)]( )
+### [SQL: RFM Analysis, Customer Retention]( )
 
 ### [Python: Data Processing](https://github.com/quocanh15702/Python_DataProcessing.git)
 
