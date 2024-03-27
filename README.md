@@ -1,4 +1,4 @@
-# My Projects
+# My Projects & Cases Study
 Below are the projects and case studies I have done, please click to see them !
 ### [Power BI: E-Commerce C2C Fashion Store](https://github.com/quocanh15702/Ecommere-C2C-Fashion-Store_PowerBI.git)
 - Import, clean, transform data
