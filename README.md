@@ -1,5 +1,5 @@
 # My Projects
-
+Below are the projects and problems I have done, please click to see them!
 ### [SQL: RFM Analysis, Customer Retention]( )
 
 ### [Python: Data Processing](https://github.com/quocanh15702/Python_DataProcessing.git)
